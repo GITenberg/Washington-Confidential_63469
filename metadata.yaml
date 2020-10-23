@@ -1,5 +1,8 @@
 _repo: Washington-Confidential_63469
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63469-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Mortimer, Lee
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51542
     wikipedia: https://en.wikipedia.org/wiki/Jack_Lait
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63469#Washington-Confidential
 gutenberg_issued: '2020-10-16'
 gutenberg_type: Text
 identifiers:
